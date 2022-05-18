@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaila</h1>
 <h3 align="center">A dedicated software engineer from Tampa, FL.</h3>
 
-<p align="left"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>
+<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>
 
 - 🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading.**
 
 - 🌱 I’m currently learning **JavaScript and Node.js**
-
-- 👯 I’m looking to collaborate on [kailakelly.com](https://kailakelly.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [kailakelly.netlify.app](kailakelly.netlify.app)
 
