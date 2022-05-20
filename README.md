@@ -4,11 +4,11 @@
 
 <!--<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>-->
 
-- 🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading. You can view all of my projects on my [website](kailakelly.netlify.app)**.
+🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading. You can view all of my projects on my [website](kailakelly.netlify.app)**.
 
-- 👨‍💻 I’m currently learning **JavaScript and Node.js**
+👨‍💻 I’m currently learning **JavaScript and Node.js**
 
-- 📫 How to reach me **kailakelly0@gmail.com**
+📫 How to reach me **kailakelly0@gmail.com**
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
