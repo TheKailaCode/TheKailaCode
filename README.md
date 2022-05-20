@@ -18,9 +18,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
 </p>
 
- <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Rigley 2"/>
+ <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif"/>
  
- <img src="assets/ezgif.com-gif-maker2.gif" width="100%"  alt="Rigley 2"/>
+ <img src="assets/ezgif.com-gif-maker2.gif" width="100%"  alt="Restaurant gif"/>
+ 
+ <img src="assets/ezgif.com-gif-maker3.gif" width="100%"  alt="Portfolio gif"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
