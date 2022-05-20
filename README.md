@@ -1,16 +1,12 @@
 <img src="assets/KailaKelly.png" width="100%" height="350px">
 <br/>
 <h5 align="center">My page is currently under construction. Please visit me again later. With a background in psychology, I am looking to bring my knowledge of learning processes and motivation a team of dedicated, likeminded engineers.</h5>
-<br/>
-
 
 <!--<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>-->
 
-- 🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading.**
+- 🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading. You can view all of my projects on my website [website](kailakelly.netlify.app)**
 
-- 🌱 I’m currently learning **JavaScript and Node.js**
-
-- 👨‍💻 All of my projects are available at [kailakelly.netlify.app](kailakelly.netlify.app)
+- 👨‍💻 I’m currently learning **JavaScript and Node.js**
 
 - 📫 How to reach me **kailakelly0@gmail.com**
 
@@ -23,7 +19,7 @@
 
 <br/>
 
-<h3 align="center">Projects</h3>
+<h2 align="center">Projects</h2>
 
 <table bordercolor="#D1AE9B">
  <tr>
@@ -31,16 +27,16 @@
   <td width="50%" valign="top">
    <h3 align="center">Ayesha Hair Salon</h3>
    <br />
-   <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif"/>
-   <br/>
+   <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif" align="center"/>
+   <br />
 <p><strong>HTMl & CSS</strong> - Display client's salon services and lookbook</p>
   </td>
   
   <td width="50%" valign="top">
    <h3 align="center">Morning Fresh Restaurant</h3>
    <br />
-   <img src="assets/ezgif.com-gif-maker2.gif" width="100%"  alt="Restaurant gif"/>
-   <br/>
+   <img src="assets/ezgif.com-gif-maker2.gif" width="100%"  alt="Restaurant gif" align="center"/>
+   <br />
 <p><strong>HTMl & CSS</strong> - Display client's salon services and lookbook</p>
   </td>
   
@@ -51,8 +47,8 @@
 <td width="50%" valign="top">
    <h3 align="center">KailaKelly.com</h3>
    <br />
-  <img src="assets/ezgif.com-gif-maker3.gif" width="100%"  alt="Portfolio gif"/>
-   <br/>
+  <img src="assets/ezgif.com-gif-maker3.gif" width="100%"  alt="Portfolio gif" align="center"/>
+   <br />
 <p><strong>HTMl, CSS, JavaScript</strong> - Portfolio website displaying my projects and contact information</p>
   </td>
   
