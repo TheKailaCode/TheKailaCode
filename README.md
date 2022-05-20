@@ -16,14 +16,14 @@
 
  <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/angelist.svg" alt="thekailacode" height="30" width="40" /></a>
+<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekailacode" height="30" width="40" /></a>
 <a href="https://twitter.com/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekailacode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
 </p>
 
 <br/>
 
-<h3 align="center"><u>Projects</u></h3>
+<h3 align="center">Projects</h3>
 
  <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif"/>
  
