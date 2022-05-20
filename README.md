@@ -1,8 +1,15 @@
 <img src="assets/KailaKelly.png" width="100%" height="350px">
 
 <h3 align="center">A dedicated software engineer from Tampa, FL.</h3>
+<br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekailacode" height="30" width="40" /></a>
+<a href="https://twitter.com/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekailacode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
+</p>
 
-<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>
+<!--<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>-->
 
 - 🔭 I’m currently working on **a social networking site for book lovers to connect with others who share the same passion for reading.**
 
@@ -12,12 +19,7 @@
 
 - 📫 How to reach me **kailakelly0@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekailacode" height="30" width="40" /></a>
-<a href="https://twitter.com/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekailacode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
-</p>
+
 
  <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif"/>
  
