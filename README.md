@@ -1,4 +1,4 @@
-<img src="assets/KailaKellybanner.png" width="100%" height="300px">
+<img src="assets/KailaKelly.png" width="100%" height="350px">
 
 <h3 align="center">A dedicated software engineer from Tampa, FL.</h3>
 
