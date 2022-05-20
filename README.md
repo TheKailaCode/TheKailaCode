@@ -21,7 +21,7 @@
 
 <h2 align="center">Projects</h2>
 
-<table bordercolor="red">
+<table>
  <tr>
   
   <td width="50%" valign="top">
