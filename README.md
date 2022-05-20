@@ -1,13 +1,8 @@
 <img src="assets/KailaKelly.png" width="100%" height="350px">
-
-<h4 align="center">My page is currently under construction. Please visit me again later.</h3>
 <br/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekailacode" height="30" width="40" /></a>
-<a href="https://twitter.com/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekailacode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
-</p>
+<h5 align="center">My page is currently under construction. Please visit me again later. With a background in psychology, I am looking to bring my knowledge of learning processes and motivation a team of dedicated, likeminded engineers.</h5>
+<br/>
+
 
 <!--<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>-->
 
@@ -19,6 +14,15 @@
 
 - 📫 How to reach me **kailakelly0@gmail.com**
 
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://codepen.io/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="thekailacode" height="30" width="40" /></a>
+<a href="https://twitter.com/thekailacode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thekailacode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kailakelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailakelly/" height="30" width="40" /></a>
+</p>
+
+<br/>
+
 <h3 align="center">Projects</h3>
 
  <img src="assets/ezgif.com-gif-maker.gif" width="100%"  alt="Hair Salon gif"/>
@@ -26,6 +30,7 @@
  <img src="assets/ezgif.com-gif-maker2.gif" width="100%"  alt="Restaurant gif"/>
  
  <img src="assets/ezgif.com-gif-maker3.gif" width="100%"  alt="Portfolio gif"/>
+ 
 
 
 <h3 align="center">Languages and Tools:</h3>
