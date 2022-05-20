@@ -1,5 +1,5 @@
 <img src="assets/KailaKellybanner.png" width="100%">
-<h1 align="center">Hi 👋, I'm Kaila. My profle is under maintenance at this time.</h1>
+
 <h3 align="center">A dedicated software engineer from Tampa, FL.</h3>
 
 <p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>
