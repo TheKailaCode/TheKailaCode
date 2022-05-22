@@ -43,6 +43,13 @@
  </tr>
  
  <tr>
+  <td width="50%" valign="top">
+   <h3 align="center">Vegan Food Checker</h3>
+   <br />
+  <img src="assets/ezgif.com-gif-maker4.gif" width="100%"  alt="Portfolio gif" align="center"/>
+   <br />
+<p><strong>HTMl, CSS, JavaScript</strong> - Application to check whether prepackaged food products contain vegan ingredients</p>
+  </td>
   
 <td width="50%" valign="top">
    <h3 align="center">KailaKelly.com</h3>
