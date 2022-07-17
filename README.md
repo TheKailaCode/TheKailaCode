@@ -1,6 +1,6 @@
 <img src="assets/KailaKelly.png" width="100%" height="350px">
 <br/>
-<h5 align="center">With a background in psychology, I am looking to bring my knowledge of learning processes and motivation to a team of dedicated, likeminded engineers.</h5>
+<h5 align="center">With a background in psychology, learning the complex structures of the human brain i have found joy in learing code in the same manner. </h5>
 
 <!--<p align="center"> <a href="https://twitter.com/thekailacode" target="blank"><img src="https://img.shields.io/twitter/follow/thekailacode?logo=twitter&style=for-the-badge" alt="thekailacode" /></a> </p>-->
 
